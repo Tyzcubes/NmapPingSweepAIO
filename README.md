@@ -8,4 +8,5 @@ Built by: github.com/Tyzcubes
 
 Offical repository: https://github.com/Tyzcubes/NmapAutoPortScanner
 
-*(It can definitely be written better, so go for it.)*
+*(It can definitely be written better, so go for it.)
+
